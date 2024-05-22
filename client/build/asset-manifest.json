@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2955a053.css",
+    "main.js": "/static/js/main.93d672eb.js",
+    "static/js/488.12972e43.chunk.js": "/static/js/488.12972e43.chunk.js",
+    "static/media/Hitesh Kumar Misra CV21.pdf": "/static/media/Hitesh Kumar Misra CV21.d82c4d356ef9c2ee8a80.pdf",
+    "index.html": "/index.html",
+    "main.2955a053.css.map": "/static/css/main.2955a053.css.map",
+    "main.93d672eb.js.map": "/static/js/main.93d672eb.js.map",
+    "488.12972e43.chunk.js.map": "/static/js/488.12972e43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2955a053.css",
+    "static/js/main.93d672eb.js"
+  ]
+}
